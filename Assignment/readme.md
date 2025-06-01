@@ -187,4 +187,22 @@ To ensure your project is well-received and easy to assess:
 
 ---
 
+## 🚀 Submission Instructions
+
+After completing the assignment, please submit your project by creating your own repository through our **GitHub Classroom** link below.
+
+### How to Submit:
+1. Click the GitHub Classroom invitation link below.
+2. Accept the assignment and create your personal repository.
+3. Clone your repository locally and add your completed project files following the required folder structure.
+4. Commit and push your changes back to your GitHub Classroom repo.
+5. Confirm that your final submission includes all deliverables in the correct folders.
+
+### GitHub Classroom Invitation Link:
+[Accept the Assignment and Create Your Repo](https://classroom.github.com/a/NWsHXFDH)
+
+---
+
+Thank you, and good luck with your project! 🎉
+
 Happy analyzing! 💡
