@@ -28,7 +28,7 @@ We have included the session slides, notebooks, labs, and an assignment in line 
 For practice and evaluation, all assignments related to the sessions are maintained in a separate repository:
 
 **Microsoft Fabric Assignments:**
-[https://github.com/zinduaschool/microsoft\_fabric\_assignments](https://github.com/zinduaschool/microsoft_fabric_assignments)
+[Take Home Assignment](https://github.com/zinduaschool/microsoft_fabric/tree/main/Assignment) 
 
 ---
 
