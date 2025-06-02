@@ -10,9 +10,17 @@ Microsoft Fabric is an end-to-end, unified data analytics platform that integrat
 ---
 
 ## What was covered during the workshop
+| **Session** | **Topic** | **Details** |
+|------------|-----------|-------------|
+| Session 1 | Introduction to Microsoft Fabric | Overview of Fabric, challenges faced by data professionals, and how Fabric addresses them |
+|  | Fabric Setup | Includes setting up Fabric, understanding personas, workloads, and OneLake |
+|  | Data Ingestion & Modeling | Ingesting data into Lakehouse, creating views, building semantic and ML models |
+| Session 2 | Build with the TM | Creating Power BI reports from Fabric data |
+| Session 3 | Assignment | Hands-on tasks and labs to reinforce learning |
 
 
 We have included the session slides, notebooks, labs, and an assignment in line with our Zindua committment to handson practical learning.
+
 ---
 
 ## Assignments and Exercises
