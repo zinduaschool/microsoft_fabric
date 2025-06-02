@@ -197,6 +197,7 @@ After completing the assignment, please submit your project by creating your own
 3. Clone your repository locally and add your completed project files following the required folder structure.
 4. Commit and push your changes back to your GitHub Classroom repo.
 5. Confirm that your final submission includes all deliverables in the correct folders.
+6. Submit your Repository via the Submission Link : https://base.zinduaschool.com/form/F-Qp-jhKbNj5-MwIlo_C_ez0RAlZMMFHGQELakdhOW8
 
 ### GitHub Classroom Invitation Link:
 [Accept the Assignment and Create Your Repo](https://classroom.github.com/a/NWsHXFDH)
